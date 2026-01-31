@@ -1,0 +1,4 @@
+- Display current weather
+- Today every 3 hrs weather report
+- 5 Days weather ( today , tomorrow , ... )
+- AQI report
